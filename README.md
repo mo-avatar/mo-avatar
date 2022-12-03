@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![mo-avatar's github stats](https://github-readme-stats.vercel.app/api?username=mo-avatar "![mo-avatar's github stats")](https://github.com/mo-avatar/github-readme-stats)
 
 <!--
 **mo-avatar/mo-avatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
