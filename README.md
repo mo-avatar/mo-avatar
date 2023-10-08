@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on OLAP and Graph Service Development
+- 🔭 I’m currently working on OLAP and Graph Database Development
 - 🌱 I’m currently learning OLAP, Graph, Database, Distributed System, ClickHouse, Nebula
 - 📫 How to reach me: moxuan.cs@outlook.com
 
